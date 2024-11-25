@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Distribution / Packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+# Uncomment if you're using pyinstaller for packaging
+# *.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# IDEs
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# CSV and Parquet files
+*.csv
+*.parquet
+
+# MongoDB data (if locally stored)
+*.db
+*.bak
+
+# Other system-specific files
+.DS_Store
+Thumbs.db
